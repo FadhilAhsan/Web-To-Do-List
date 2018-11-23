@@ -1,0 +1,63 @@
+.w-100 {
+  width: 100%;
+}
+
+.pull-right {
+  float: right;
+}
+
+.block {
+  display: block;
+}
+
+.collapse-title {
+  color: #16b56e;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.collapse-title:hover, .collapse-title:focus {
+  color: #178a57;
+  text-decoration: none;
+}
+
+.pull-left {
+  float: left;
+}
+
+.mt-05 {
+  margin-top: 6px;
+}
+
+.border-bot1 {
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.no-border {
+  border: none;
+}
+
+.card-body {
+  padding-right: 0;
+  padding-left: 0;
+  margin-top: 15px !important;
+}
+
+.input-group-check {
+  margin-top: 15px;
+}
+
+.add-btn.font-12 {
+  font-size: 12px;
+  padding: 3px 10px;
+}
+
+.checkbox {
+  position: relative;padding-left: 25px;
+}
+
+.checkbox input {
+  position: absolute;
+  left: 0;
+  top: 6px;
+}
