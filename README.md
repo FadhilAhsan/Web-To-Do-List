@@ -11,7 +11,7 @@ This website todo list simple use Laravel 5.5 with database MySQL
 5. Create your `.env`  with `cp .env.example .env`
 6. Generate your APP_KEY with `php artisan key:generate`
 7. Open `.env` insert your DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME and DB_PASSWORD then save.
-8. Create Database in MySQL with name `Web_To_List`
+8. Create Database in MySQL with name `Web_To_Do_List`
 8. `php artisan migrate`
 9. `php artisan serve` 
 
